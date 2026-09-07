@@ -1,0 +1,6 @@
+{
+  "name": "Super Mario & Luigi: Co-op Bros",
+  "description": "Two-player cooperative platformer game on one computer featuring Mario & Luigi with puzzle teamwork, bounce boosts, and rescue bubbles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
